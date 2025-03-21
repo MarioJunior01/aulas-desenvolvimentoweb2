@@ -54,3 +54,5 @@ Identificar o funcionamento e relacionamento entre os componentes de computadore
 </body>
 
 </html>
+<?php
+?>
