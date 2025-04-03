@@ -5,9 +5,15 @@
     <title>Document</title>
 </head>
 <body>
-    <h1> MARIO <h1>
+    
 </body>
 </html>
 
 <?php
+$i =0;
+
+while(i>0){
+    echo"AA";
+
+}
 ?>
