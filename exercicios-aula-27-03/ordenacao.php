@@ -10,9 +10,5 @@
 </html>
 
 <?php
-$numeros= array[
-    $_POST["numero1"],
-    
-];
 
 ?>
