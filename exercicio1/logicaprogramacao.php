@@ -6,12 +6,12 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
-    <title>Informações do Instituto Federal </title>
+    <title>Materia Logica de Programação </title>
 </head>
 
 <nav id="menu">
         <a href="index.php">Inicio</a>
-        <a href="paginaSobre.php">Sobre</a>
+        <a href="Contatos.php">Sobre</a>
         <a href="paginaCurso.php">Eventos</a>
     </nav>
 <body class="principal">
@@ -75,5 +75,3 @@ Identificar o funcionamento e relacionamento entre os componentes de computadore
 </body>
 
 </html>
-<?php
-?>

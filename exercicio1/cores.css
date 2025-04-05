@@ -1,0 +1,23 @@
+.principal{
+    margin: 100px;
+    font-family: 'Arial', sans-serif;
+
+
+}
+
+nav#menu a {
+    color: rgb(0, 0, 0);
+    text-decoration: none; 
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-weight: bold;
+    border-radius: 5px; 
+}
+
+
+nav#menu a:hover {
+    background-color: #218838; 
+}
+
+
+
