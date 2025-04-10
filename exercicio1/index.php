@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="cores.css">
+    <link rel="stylesheet" href="style/cores.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
@@ -71,7 +71,9 @@ Identificar o funcionamento e relacionamento entre os componentes de computadore
     <h2> Diciplinas no Curso</h2>
     <p> Para acessar as diciplinas do curso acesse esse  esse link:
         <br> <a href="logicaprogramacao.php">Diciplinas do Curso de Informatica integrado ao ensino médio</a>
-    <img src="topo-ifpr.png" id="imagem" width="900px" height="80px"  />
+        <br>
+        
+    <img src="img/topo-ifpr.png" id="imagem" width="900px" height="80px"  />
 </body>
 
 </html>
