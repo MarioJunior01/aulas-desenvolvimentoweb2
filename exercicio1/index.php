@@ -11,8 +11,7 @@
 
 <nav id="menu">
         <a href="index.php">Inicio</a>
-        <a href="paginaSobre.php">Sobre</a>
-        <a href="paginaCurso.php">Eventos</a>
+        
     </nav>
 <body class="principal">
     <h1 class="titulo"> Informática</h1>
@@ -69,10 +68,13 @@ Identificar o funcionamento e relacionamento entre os componentes de computadore
 
     </p>
     <h2> Diciplinas no Curso</h2>
-    <p> Para acessar as diciplinas do curso acesse esse  esse link:
-        <br> <a href="logicaprogramacao.php">Diciplinas do Curso de Informatica integrado ao ensino médio</a>
+    <p> Para acessar as diciplinas do curso acesse esse os links abaixo :
+        <br> <a href="logicaprogramacao.php">Diciplina logica de programação </a>
         <br>
-        
+        <a href = "disciplina2.php "> Arquitetura e Manutenção de Computadores <a/>
+        <br>
+        <br>
+            
     <img src="img/topo-ifpr.png" id="imagem" width="900px" height="80px"  />
 </body>
 
