@@ -1,13 +1,16 @@
 .principal{
     margin: 100px;
     font-family: 'Arial', sans-serif;
+    background-color: antiquewhite;
+    
    
 
 
 }
-.nome_completo{
-   font-weight: bolder;
-   font-style: italic;
+
+.div2{
+border-style: outset;
+    font-style: italic;
 }
 
 
